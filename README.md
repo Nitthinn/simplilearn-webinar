@@ -59,3 +59,16 @@ Deploy on Netlify
 Build command: npm run build
 
 Publish directory: .next
+
+screenshots:
+![WhatsApp Image 2026-01-14 at 9 19 43 AM](https://github.com/user-attachments/assets/ffdee17b-1cf3-4080-bb5e-09f8d7e2132e)
+<img width="1908" height="914" alt="image" src="https://github.com/user-attachments/assets/877ea7ec-1dfc-4b94-a1ac-b0f7a66e7c08" />
+<img width="1911" height="921" alt="image" src="https://github.com/user-attachments/assets/5919a9df-b268-4de2-94cd-3530a522e7e4" />
+<img width="1913" height="920" alt="image" src="https://github.com/user-attachments/assets/f795a9e3-4f00-4483-a6f5-1ae0f8b0cd89" />
+<img width="1918" height="910" alt="image" src="https://github.com/user-attachments/assets/2880e045-cd0a-4edc-a61b-5a4d14e58d7b" />
+<img width="1902" height="960" alt="image" src="https://github.com/user-attachments/assets/9861a0bd-ce57-4000-a871-b25361cc4cd3" />
+
+
+
+
+
