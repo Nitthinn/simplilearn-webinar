@@ -18,6 +18,7 @@ export async function submitRegistration(formData: FormData) {
     company,
     role,
     timestamp: new Date().toISOString(),
+    attendees: [],
   };
 
   const result = await submitToAirtable(data);
